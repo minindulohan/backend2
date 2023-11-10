@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "start": "node server.js",
+  "start2": "node --experimental-modules server2.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
